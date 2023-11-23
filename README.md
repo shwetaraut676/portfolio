@@ -14,7 +14,3 @@
 - Employed Postman to aggregate API responses and integrated it with Apache JMeter for automated testing and reporting.
 - Executed User Acceptance Testing (UAT) for the 'New to Bajaj (NTB)' Campaign.
 - Devised, Managed SMS Campaigns through Oracle Responsys Campaign Management evaluating their impact on customer retention
-
-## Projects
-### 1
-### 2
